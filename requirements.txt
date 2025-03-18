@@ -1,6 +1,6 @@
 albumentations
 matplotlib
-numpy
+numpy<2
 pandas
 pillow
 python-dotenv
